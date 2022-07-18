@@ -22,6 +22,13 @@ Workflow:
 Objective of this repository is to process all the requests coming from above microservice & forward the response 
 back to microservice. Then the microservice returns the response to the corresponsing EUA.
 
+
+# References
+![alt text](https://github.com/saurabhrc15/UHI_Integration_Challenge_2_HSPA_Plus91_Final_Submission/blob/main/img/Image1.png?raw=true)
+![alt text](https://github.com/saurabhrc15/UHI_Integration_Challenge_2_HSPA_Plus91_Final_Submission/blob/main/img/Image2.png?raw=true)
+![alt text](https://github.com/saurabhrc15/UHI_Integration_Challenge_2_HSPA_Plus91_Final_Submission/blob/main/img/Image3.png?raw=true)
+
+
 # Our HSPA Credentials
 ```json
 {
